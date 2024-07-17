@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+        }
+        #sidebar {
+            width: 200px;
+            background-color: #f1f1f1;
+            padding: 20px;
+        }
+        #main-content {
+            flex-grow: 1;
+            padding: 20px;
+        }
+        .widget {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .widget-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="sidebar">
+        <h2>Dashboard</h2>
+        <ul id="courseList">
+            <li><a href="/dashboard">Dashboard</a></li>
+        </ul>
+        <ul id="courseList">
+            {% for i in range(courses|length) %}
+                <li><a href="/course{{ i + 1 }}">{{ courses[i] }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div id="main-content">
+        <h1>Grades</h1>
+        <div style="width: 50%; margin: auto">
+            <table style="width:100%; border-collapse: collapse;">
+                <thead>
+                    <tr>
+                        {% for header in grades[0] %}
+                            {% if header is not none %}
+                                <th style="border: 1px solid black; padding: 8px; background-color: #f2f2f2;">{{ header }}</th>
+                            {% endif %}
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for student in grades[1:] %}
+                        <tr>
+                            {% for grade in student %}
+                                {% if grade is not none %}
+                                    <td style="border: 1px solid black; padding: 8px;">{{ grade }}</td>
+                                {% endif %}
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>   
+    </div>
+</body>
+</body>
+</html>

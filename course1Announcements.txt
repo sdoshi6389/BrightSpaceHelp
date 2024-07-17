@@ -1,0 +1,45 @@
+<d2l-html-block html="<p>Good afternoon everyone!</p>
+<p>For those who missed the session on&amp;#160;<strong>Wednesday</strong>, here is a quick recap off opportunities:</p>
+<p>1)<strong>Boiler Blockchain Development Team: </strong>The dev team gives you the opportunity to build on all that you have learnt in this course(Smart contract development) and explore different blockchain technologies through various projects and hackathons!</p>
+<p>Sign-up Link:&amp;#160;<a rel=&quot;noopener&quot; href=&quot;https://forms.gle/8sZxPt2rUSEn7tdT7&quot;>https://forms.gle/8sZxPt2rUSEn7tdT7</a></p>
+<p>2)<strong>Boiler Blockchain Research Team: </strong>Join the&amp;#160; Research Team to enhance your understanding of blockchain applications, and share your insights on platforms like Twitter and Medium to build your professional profile.</p>
+<p>Sign-up Link: <a rel=&quot;noopener&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScXOvbBcXvYuB0W8vot9hxBTZHy6SfaTEIvWPvxRoVLyy0QPQ/viewform&quot;>https://docs.google.com/forms/d/e/1FAIpQLScXOvbBcXvYuB0W8vot9hxBTZHy6SfaTEIvWPvxRoVLyy0QPQ/viewform</a></p>
+<p>3)<strong>Course Instructors/TAs: </strong>We are seeking TAs for our courses next semester. This <strong>paid position</strong> offers the opportunity to work closely with students and assist with course material. Experience as a TA is how you will eventually get to teach the course as instructor for future semesters.</p>
+<p>Sign-up Link: <a rel=&quot;noopener&quot; href=&quot;https://forms.gle/YLZraAtZq18EXoQG7&quot;>https://forms.gle/YLZraAtZq18EXoQG7</a></p>
+<p>4)<strong>Operations and </strong><strong>Marketing: </strong>Join the O&amp;amp;M Team to develop organizational leadership skills and play a key role in club decision-making and marketing initiatives. Enhance your design skills and creativity as you broadcast your work to the Purdue Community.</p>
+<p>Sign-up Link:<a rel=&quot;noopener&quot; href=&quot;https://forms.gle/HteSxKZPLLJs8UiJ8&quot;>https://forms.gle/HteSxKZPLLJs8UiJ8</a></p>
+<p>5)<strong>New Course:&amp;#160;</strong> We are launching a new course that deals with more advanced use-cases of blockchain technology. This course is an excellent career opportunity as you will get to interact with industry guests coming in to talk about their technology!&amp;#160;</p>
+<p>All grades have been updated on Brightspace, please have a look and shoot us an email if there are any issues with your grade!</p>
+<p>Keep in mind as per our syllabus, the passing grade is&amp;#160;<strong>65%.&amp;#160;</strong></p>
+<p>Once again, we appreciate all the hard work you have put into this course and we can&amp;#39;t wait to see what&amp;#39;s next for you!</p>
+<p></p>
+<p>Best,</p>
+<p>Boiler Blockchain team</p>"></d2l-html-block>
+<d2l-html-block html="<p>Hey Everyone,</p>
+<p>We hope y&amp;#39;all are having a productive dead week!</p>
+<p>For those who could not make it to class on Wednesday, you will be able to find all opportunities in Boiler Blockchain, for next semester in the content tab.</p>
+<p>Let us know if you have any questions!</p>
+<p>Best,</p>
+<p>Boiler Blockchain team</p>"></d2l-html-block>
+<d2l-html-block html="<p>Hey Everyone</p>
+<p>This is just a reminder that we&amp;#39;ll be having a wrap-up session for the club today. Show up if you&amp;#39;d like to learn about what you can work on over the summer and the next semester. Additionally, feel free to invite your friends who would want to know more about the club(You get extra credit in the course if you show up today. Although, I don&amp;#39;t think any one of you needs it)</p>
+<p>Also there&amp;#39;s free pizza :)</p>"></d2l-html-block>
+<d2l-html-block html="<p>Hey everyone,</p>
+<p>Hope y&amp;#39;all are having a fantastic week!</p>
+<p>We are excited to announce that this&amp;#160;<strong>Wednesday</strong>, we will hold our final session of the semester, and it promises to be an exciting one! Members from every vertical of our organization—including Research, Development, and Marketing—will be joining us. This is a fantastic opportunity to connect, engage, and share insights with members of the organization.</p>
+<p>You will also get to see the fascinating work we do at Boiler Blockchain and learn about ways in which you can get involved in our organization and to top it off, there&amp;#39;s also gonna be pizza!</p>
+<p>The team who made the best project - Anokhi Matta, Aditya Bose, Aditya Kattil and Ansh Gangapurkar- will be presenting their project to the entire club. Congratulations!</p>
+<p>We are also going to be giving out extra credit points to those who attend the session on Wednesday!</p>
+<p>It has been a pleasure to share our knowledge of the Blockchain world with such a curious and enthusiastic batch of students and we are all very excited to see what&amp;#39;s gonna come next with the skills you have gained from the course.</p>
+<p></p>
+<p>Looking forward to Wednesday!</p>
+<p>Boiler Blockchain Team</p>
+<p><img src=&quot;/content/enforced/1060684-wl.nc.28225/BBC Social poster (1).png&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot;/></p>
+<p></p>"></d2l-html-block>
+<d2l-html-block html="<p>Good morning everyone!</p>
+<p>Hope y&amp;#39;all are having a fantastic week!</p>
+<p>This is just a reminder for today&amp;#39;s session in which we are going to grade your group projects.</p>
+<p>Please note it is important for your team to be present in class today, otherwise we will not be able to grade your projects.</p>
+<p>We are really looking forward to your work!</p>
+<p>Best,</p>
+<p>Boiler Blockchain Team</p>"></d2l-html-block>

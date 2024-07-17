@@ -1,0 +1,8 @@
+6/25/24: lines 229 to 261 arent working anymore, not even printing to the console, they were workign before but suddenly stopped working, have a feeling that duo is glitching because
+of the amount of requests ive made today, will try it out tomorrow and see if that was the issue or not
+
+6/26/24: fixed it and all data acquired (will loop it for all courses after making the ui)
+
+7/1/24: started working on the python backend, this is where it will read the data files and put into arrays and then will update the data into the html page by editing the structure, its selectors, and elements
+
+7/2/24: 

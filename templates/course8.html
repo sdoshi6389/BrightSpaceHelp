@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+        }
+        #sidebar {
+            width: 200px;
+            background-color: #f1f1f1;
+            padding: 20px;
+        }
+        #main-content {
+            flex-grow: 1;
+            padding: 20px;
+        }
+        .widget {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .widget-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="sidebar">
+        <h2>Dashboard</h2>
+        <ul id="courseList">
+            <li><a href="/dashboard">Dashboard</a></li>
+        </ul>
+        <ul id="courseList">
+            {% for i in range(courses|length) %}
+                <li><a href="/course{{ i + 1 }}">{{ courses[i] }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    
+    <div id="main-content">
+        <h1 id="courseTitle">Welcome to {{ courses[7] }}</h1>
+        
+        <div class="widget-grid">
+            <a href="/course8announcements" class="widget">
+                <h3>Announcements</h3>
+                <p>Content for Widget 1</p>
+            </a>
+            <a href="/course8content" class="widget">
+                <h3>Course Content</h3>
+                <p>Content for Widget 2</p>
+            </a>
+            <a href="/course8grades" class="widget">
+                <h3>Course Grades</h3>
+                <p>Content for Widget 3</p>
+            </a>
+        </div>
+    </div>
+</body>
+</body>
+</html>

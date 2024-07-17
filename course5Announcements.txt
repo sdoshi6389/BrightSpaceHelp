@@ -1,0 +1,1 @@
+<d2l-html-block html="<p>This Brightspace course contains the Purdue Civics Knowledge Test.&amp;#160; To begin, click on Content above, then &amp;quot;Welcome to Civics Literacy.&amp;quot;</p>"></d2l-html-block>

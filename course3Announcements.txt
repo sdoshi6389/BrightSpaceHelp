@@ -1,0 +1,44 @@
+<d2l-html-block html="<p>Hello!&amp;#160;</p>
+<p>On Monday, April 8th, there will be no office hours at the Academic Success Center, as our office is closed. Sessions will proceed as usual, unless stated otherwise by the course&amp;#39;s SI Leader(s).</p>
+<p>Have a great weekend and enjoy all the exciting events this weekend!</p>"></d2l-html-block>
+<d2l-html-block html="<p>Hello,</p>
+<p>Spring break is right around the corner! With that said, we will not have SI sessions or office hours from Sunday, March 10th to Sunday, March 17th. We will return to business as usual on Monday, March 18th!</p>
+<p><span style=&quot;font-size: 0.95rem;letter-spacing: 0.02rem;&quot;>We hope you all have a relaxing break!</span><span style=&quot;font-size: 0.95rem;letter-spacing: 0.02rem;&quot;>&amp;#160;</span></p>"></d2l-html-block>
+<d2l-html-block html="<p>Hello,</p>
+<p></p>
+<p>As the university has a delayed start because of the weather, Supplemental Instruction will not be hosting office hours before 10am this morning. All impacted office hours may be rescheduled later this week, so please keep an eye on this page for announcements of when those might take place.</p>
+<p>Have a great day!</p>"></d2l-html-block>
+<d2l-html-block html="<p>Hello everyone,</p>
+<p>We here at the Academic Success Center hope you have had a great first week of classes.&amp;#160;</p>
+<p>With a long weekend ahead of us in honor of Martin Luther King Jr. Day, we will not be offering sessions or office hours on Sunday, 1/14 or Monday, 1/15.</p>
+<p>Have a great weekend and we look forward to seeing you back at Supplemental Instruction on Tuesday, 1/16!</p>"></d2l-html-block>
+<d2l-html-block html="<p><strong>Welcome to the Brightspace course for SI Session Information for Spring 2024 courses! We&amp;#39;re glad you are here. Here are a couple of guidelines for you:</strong></p>
+<p><strong>Why am I seeing this Brightspace Course?</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+<li style=&quot;list-style-type: inherit;&quot;>You can access this SI Session Information Brightspace course because a class you are taking is supported by SI, and we have automatically enrolled you in it so you can access the SI resources.</li>
+</ul>
+<p><strong>What is Supplemental Instruction?</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+<li>Supplemental Instruction is a program built around&amp;#160;peer-led group study sessions for some of Purdue’s most challenging courses.</li>
+<li>Our SI Leaders are undergraduate students at Purdue who have taken the course that they are assigned to lead and know what it takes to succeed.</li>
+<li>They are trained to facilitate or guide learning through fun, collaborative activities that provide more practice with challenging course material and concepts.</li>
+<li>SI attendance is correlated with higher grades in the paired course, but it should not be thought of as a quick fix or a place to go for last minute help before an exam.</li>
+<li>To get the most benefit, you should attend SI early in the semester and continue coming as often as you can.</li>
+<li>Keep in mind that 1 hour of productive group study is equal to 2 hours of solo studying –&amp;#160;SI helps you maximize your study time while also getting to know your peers and having fun.</li>
+</ul>
+<p><strong>How do I participate?</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+<li style=&quot;list-style-type: inherit;&quot;>SI sessions will be in-person for Spring 2024.</li>
+<li style=&quot;list-style-type: inherit;&quot;>Each SI supported course has its own folder within this Brightspace course, which you can see in the menu on the left of your screen.</li>
+<li style=&quot;list-style-type: inherit;&quot;>Within these folders, you can see the SI Leader’s schedule, which includes their session locations, times and their weekly office hour.</li>
+<li style=&quot;list-style-type: inherit;&quot;>Drop by and see your SI Leader in-person by visiting the Academic Success Center, or virtually by clicking the office hour Zoom link in the course folder.</li>
+</ul>
+<p><strong>What should I expect from SI?</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+<li style=&quot;list-style-type: inherit;&quot;>The SI Leader will guide you through activities, and you will collaborate with fellow peers to solve problems and find solutions.</li>
+<li style=&quot;list-style-type: inherit;&quot;>An SI Leader’s role is to facilitate the discussion that will lead to you and your peers figuring out the answer, so often times SI Leaders will redirect questions instead of just answering it themselves.</li>
+<li style=&quot;list-style-type: inherit;&quot;>When a student is able to explain information to their peers, they are creating an even stronger grasp on the information, which is why 1 hour of SI is equal to 2 hours to individual studying.</li>
+</ul>
+<p><strong>What if sessions/office hours change?</strong></p>
+<p>Any temporary session or office hour updates or changes throughout the semester will be posted to the Spring 2024 Brightspace SI Brightspace Course.</p>
+<p><strong>QUESTIONS?</strong>&amp;#160;Look in your course folder first, visit our website&amp;#160;<a rel=&quot;noopener&quot; href=&quot;https://www.purdue.edu/asc/si/index.html&quot;>https://www.purdue.edu/asc/si/index.html,</a>&amp;#160;or contact the Academic Success Center at academicsuccess@purdue.edu.</p>"></d2l-html-block>

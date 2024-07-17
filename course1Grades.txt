@@ -1,0 +1,25 @@
+Grade Item,Points,Weight Achieved,Grade
+In - Class Quiz, ,12.5 / 50,25 %
+,Lecture 1 Quiz,1 / 1,6.25 / 6.25,100 %
+,Lecture 2 Quiz,0 / 1,0 / 6.25,0 %
+,Lecture Quiz 3,1 / 1,6.25 / 6.25,100 %
+,Lecture Quiz 4,0 / 1,0 / 6.25,0 %
+,Lecture Quiz 6,0 / 1,0 / 6.25,0 %
+,Lecture Quiz 5,0 / 1,0 / 6.25,0 %
+,Lecture quiz 7,0 / 1,0 / 6.25,0 %
+,Lecture Quiz 8,0 / 1,0 / 6.25,0 %
+Homework, ,0 / 30,0 %
+,Assignment 1,0 / 100,0 / 6,0 %
+,Assignment 2,0 / 100,0 / 6,0 %
+,Assignment 3,0 / 100,0 / 6,0 %
+,Assignment 4,0 / 100,0 / 6,0 %
+,Assignment 5,0 / 100,0 / 6,0 %
+Group Project, ,0 / 20,0 %
+,Group Project Grade,0 / 100,0 / 20,0 %
+Lecture 2 Makeup Quiz,0 / 1,0 / 0,0 %
+Lecture 3 Make-up Quiz,0 / 1,0 / 0,0 %
+Lecture 4 Makeup Quiz,0 / 1,0 / 0,0 %
+Lecture 7 Makeup Quiz,0 / 1,0 / 0,0 %
+Lecture 8 Makeup Quiz,0 / 1,0 / 0,0 %
+Lecture Quiz 5 Makeup,0 / 1,0 / 0,0 %
+Lecture 6 Makeup Quiz,0 / 1,0 / 0,0 %
